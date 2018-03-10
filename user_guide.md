@@ -99,7 +99,7 @@ choose `kovan` and `address2` in metamask
 open [https://mycrypto.com/#contracts](https://mycrypto.com/#contracts)
 
 fill in form:
-`Contact Address`: `0x93fbabdabd72c3fb0cd39fc768d72522fcd90388`
+`Contact Address`: `0xc62BC10aBD17DD94f94E931e815DE7aFEa48ec54`
 `ABI / JSON Interface`: paste contents of this url
 http://api-kovan.etherscan.io/api?module=contract&action=getabi&address=0xc62BC10aBD17DD94f94E931e815DE7aFEa48ec54&format=raw
 
